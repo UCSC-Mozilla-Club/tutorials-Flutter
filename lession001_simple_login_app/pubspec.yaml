@@ -19,6 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # font awesome icons added for beautiful icons 
   font_awesome_flutter:
 
   # The following adds the Cupertino Icons font to your application.
