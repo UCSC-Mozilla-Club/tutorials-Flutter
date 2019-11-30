@@ -1,4 +1,4 @@
-package com.ucscmozilla.lession001_simple_login_app
+package com.ucscmozilla.lesson001_simple_login_app
 
 import android.os.Bundle
 

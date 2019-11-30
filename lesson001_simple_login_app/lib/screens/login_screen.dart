@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:lession001_simple_login_app/screens/home_screen.dart';
+import 'package:lesson001_simple_login_app/screens/home_screen.dart';
 
 class LoginScreen extends StatelessWidget {
   // TextEditingControllers need to handle events in text fields
