@@ -34,6 +34,7 @@ class LoginScreen extends StatelessWidget {
               ),
             ),
             TextField(
+              obscureText: true,
               controller: _passwordTEController,
               decoration: InputDecoration(
                 labelText: "Password",
