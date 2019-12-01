@@ -3,6 +3,10 @@
 
 Check username,password and navigate user to home screen
 
+2. simple login application
+
+Bottom Navigation Bar for the home
+
 
 ## Getting Started with Flutter
 
